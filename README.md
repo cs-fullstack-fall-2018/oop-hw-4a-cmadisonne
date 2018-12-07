@@ -11,9 +11,11 @@ https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
 * Groovy
 * C
 * SmallTalk
-* Assembly Language
-* BASIC
+* Assembly Language <--- Not
+* BASIC <--- Not
 * Python
+
+My answer: Assembly Language and BASIC
 
 
 
